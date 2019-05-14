@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "713107123697",
+    "firebase_url": "https://lojavirtual-6ce0b.firebaseio.com",
+    "project_id": "lojavirtual-6ce0b",
+    "storage_bucket": "lojavirtual-6ce0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713107123697:android:b2e53327bfecb80c",
+        "android_client_info": {
+          "package_name": "br.eti.thiagocury.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713107123697-n5cfenos7ka3lle0m4b05hsbvvc1n738.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.eti.thiagocury.loja_virtual",
+            "certificate_hash": "e8a942345f28c084b45d387636252d9a7bbc22b2"
+          }
+        },
+        {
+          "client_id": "713107123697-9p3ji29k4o6cbptdi1isertmul27v32b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmHWLVi2p75rEhzGG963VOA3dKQFp_xsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713107123697-9p3ji29k4o6cbptdi1isertmul27v32b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
